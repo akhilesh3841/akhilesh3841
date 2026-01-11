@@ -8,8 +8,6 @@ My preferred pronouns are he/him.
 👨‍💻 I’m a Full-Stack Developer with experience in Node.js, Express.js, React.js, and JavaScript.
 I also have a strong interest in Machine Learning and am currently building ML-driven projects.
 
-🖥️ Right now, I’m building a Desktop Code Editor using Tauri, React, and Rust, inspired by VS Code.
-
 💡 I’m always open to collaborating on projects and exploring innovative ideas.
 
 ⚡ Reach out to me on **[LinkedIn](https://www.linkedin.com/in/akhilesh-kumar-yadav-5a73bb253/)**  
